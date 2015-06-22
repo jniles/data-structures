@@ -1,0 +1,23 @@
+{
+  "name": "jsds",
+  "version": "1.0.0",
+  "description": "A playground of datastructures in javascript",
+  "main": "bstree.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "data",
+    "structures"
+  ],
+  "author": "jniles",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
