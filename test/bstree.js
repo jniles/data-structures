@@ -1,7 +1,7 @@
 // tests for lib/bstree.js
 
 var expect = require('chai').expect,
-    BST = require('../lib/bstree.js');
+    BST = require('../bstree.js');
 
 describe('BST', function () {
 
